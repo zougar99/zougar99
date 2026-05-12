@@ -17,20 +17,33 @@
 
 ```yaml
 name: WerList99
+location: Morocco 🇲🇦
 roles:
   - Firefox Extension Developer
   - Python Desktop App Developer
   - Tech Blogger & Content Creator
+connect:
+  telegram: "@werlist99 — https://t.me/werlist99"
+  tech_blog: "https://werlist99.blogspot.com/"
+  firefox_addons_mozilla_amo: "https://addons.mozilla.org/en-US/firefox/user/19705561/"
+  extensions_hub: "https://extefw99.blogspot.com/"
+  github: "https://github.com/zougar99"
 currently_working_on:
-  - OmniSend Pro (Multi-channel messaging tool)
+  - OmniSend Pro (multi-channel messaging tool)
   - Firefox WebExtensions for Mozilla AMO
   - Windows optimization guides
+interests:
+  - Algorithms & data structures (problem solving, complexity)
+  - Automation, scripting, and developer tooling
+  - Privacy-focused browser extensions
 learning:
   - Advanced Python (asyncio, packaging)
-  - Browser extension APIs
+  - Browser extension APIs & WebExtensions
   - SEO & content marketing
 fun_fact: "I automate everything I do more than twice"
 ```
+
+**Reach me:** [**Telegram @werlist99**](https://t.me/werlist99) · [**Tech blog**](https://werlist99.blogspot.com/) · [**Firefox add-ons (AMO)**](https://addons.mozilla.org/en-US/firefox/user/19705561/) · [**Extensions hub**](https://extefw99.blogspot.com/)
 
 ---
 
@@ -50,6 +63,7 @@ fun_fact: "I automate everything I do more than twice"
 
 ### Languages & Frameworks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Algorithms](https://img.shields.io/badge/Algorithms_%26_DS-6366F1?style=for-the-badge&logo=leetcode&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)

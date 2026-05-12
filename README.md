@@ -37,28 +37,11 @@ fun_fact: "I automate everything I do more than twice"
 
 ## 🚀 What I Do
 
-<table>
-<tr>
-<td width="50%">
-
-### 🦊 Firefox Extensions
-Building and publishing WebExtensions on Mozilla AMO. Privacy tools, productivity add-ons, and browser utilities.
-
-### 🐍 Python Development
-Desktop applications with CustomTkinter, automation scripts, bulk messaging tools, and utilities.
-
-</td>
-<td width="50%">
-
-### ✍️ Tech Blogging
-Windows optimization guides, troubleshooting tutorials, software reviews, and productivity tips.
-
-### 📦 Open Source
-Sharing tools, scripts, and projects on GitHub. Contributing to the developer community.
-
-</td>
-</tr>
-</table>
+| 🦊 **Firefox Extensions** | ✍️ **Tech Blogging** |
+|:---|:---|
+| Building and publishing WebExtensions on Mozilla AMO. Privacy tools, productivity add-ons, and browser utilities. | Windows optimization guides, troubleshooting tutorials, software reviews, and productivity tips. |
+| 🐍 **Python Development** | 📦 **Open Source** |
+| Desktop applications with CustomTkinter, automation scripts, bulk messaging tools, and utilities. | Sharing tools, scripts, and projects on GitHub. Contributing to the developer community. |
 
 ---
 
@@ -107,10 +90,16 @@ Sharing tools, scripts, and projects on GitHub. Contributing to the developer co
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=zougar99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=zougar99&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" width="48%"/>
+<a href="https://github.com/zougar99">
+  <img src="https://github-readme-stats.vercel.app/api?username=zougar99&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6&icon_color=3B82F6" width="48%" alt="GitHub Stats"/>
+</a>
+<a href="https://github.com/zougar99">
+  <img src="https://streak-stats.demolab.com?user=zougar99&theme=tokyonight&hide_border=true&background=0D1117&ring=3B82F6&fire=FF6B6B&currStreakLabel=3B82F6" width="48%" alt="GitHub Streak"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zougar99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="40%"/>
+<a href="https://github.com/zougar99">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zougar99&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3B82F6" width="40%" alt="Top Languages"/>
+</a>
 
 </div>
 
@@ -127,16 +116,6 @@ Sharing tools, scripts, and projects on GitHub. Contributing to the developer co
 <div align="center">
 
 [![Trophies](https://github-profile-trophy.vercel.app/?username=zougar99&theme=tokyonight&no-frame=true&no-bg=true&column=7)](https://github.com/zougar99)
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/zougar99/zougar99/output/github-snake-dark.svg)
 
 </div>
 

@@ -1,37 +1,21 @@
-#Hey there! 👋 I'm WerList99
+<divalign="center">
 
-🔧 Developer | ✍️ Tech Blogger | 🦊 Firefox Extension Maker
+# 👋 Hey, I'm WerList99
 
----
+### 🔧 Developer | ✍️ Tech Blogger | 🦊 Firefox Extension Maker
 
-###🚀 What I'm Up To
+[![Blog](https://img.shields.io/badge/Blog-werlist99-FF5722?style=for-the-badge&logo=blogger&logoColor=white)](https://werlist99.blogspot.com/)
+[![AMO](https://img.shields.io/badge/Firefox_Add--ons-AMO-FF7139?style=for-the-badge&logo=firefox&logoColor=white)](https://addons.mozilla.org/en-US/firefox/user/19705561/)
+[![Extensions Hub](https://img.shields.io/badge/Extensions_Hub-extefw99-4285F4?style=for-the-badge&logo=blogger&logoColor=white)](https://extefw99.blogspot.com/)
 
--🦊 Building**Firefox extensions**— live on[I LOVE Mozilla](https://addons.mozilla.org/en-US/firefox/user/19705561/)
--🐍 Writing**Python**tools & scripts on GitHub
--✍️ Running a**tech blog**with Windows guides, troubleshooting & optimization tips
--📦 Managing the**Firefox Extensions Hub**— a catalog for my AMO add-ons
-
-###🛠️ Tech Stack
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![Firefox](https://img.shields.io/badge/-WebExtensions-FF7139?style=flat&logo=firefox&logoColor=white)
-![Windows](https://img.shields.io/badge/-Windows-0078D6?style=flat&logo=windows&logoColor=white)
-![Blogger](https://img.shields.io/badge/-Blogger-FF5722?style=flat&logo=blogger&logoColor=white)
-
-###🌐 Find Me Here
-
-| 🔗 |Link|
-|---|---|
-|✍️ Blog| [werlist99.blogspot.com](https://werlist99.blogspot.com/) |
-|🦊 Extensions Hub| [extefw99.blogspot.com](https://extefw99.blogspot.com/) |
-|📦 I LOVE Mozilla| [My Add-ons](https://addons.mozilla.org/en-US/firefox/user/19705561/) |
-|💻 GitHub|You're already here! 😄|
+</div>
 
 ---
 
-> 💡 *"Fix it, automate it, write about it."*
+## 🚀 What I Do
 
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=zougar99&show_icons=true&theme=tokyonight)
+```text
+🦊 Firefox Extensions    → Building & publishing WebExtensions on Mozilla AMO
+🐍 Python Development    → Desktop tools, automation scripts, bulk messaging apps
+✍️ Tech Blogging         → Windows guides, troubleshooting, performance optimization
+📦 Open Source           → Sharing tools & utilities on GitHub

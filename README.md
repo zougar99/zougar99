@@ -5,7 +5,6 @@
 ## 👨‍💻 About Me
 ```yaml
 name: WerList99
-location: Morocco 🇲🇦
 roles:
 - Firefox Extension Developer
 - Python Desktop App Developer

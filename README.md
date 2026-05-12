@@ -42,8 +42,6 @@ learning:
 fun_fact: "I automate everything I do more than twice"
 ```
 
-**Reach me:** [**Telegram @werlist99**](https://t.me/werlist99) · [**Tech blog**](https://werlist99.blogspot.com/) · [**Firefox add-ons (AMO)**](https://addons.mozilla.org/en-US/firefox/user/19705561/) · [**Extensions hub**](https://extefw99.blogspot.com/)
-
 ---
 
 ## 🚀 What I Do

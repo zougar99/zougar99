@@ -119,7 +119,28 @@ fun_fact: "I automate everything I do more than twice"
 
 [![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=zougar99&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FF6B6B)](https://github.com/zougar99)
 
+---
 
+## ✨ Highlights
+
+<div align="center">
+
+![Stars](https://img.shields.io/badge/Stars%20Earned-43-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-29-3B82F6?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-0-lightgrey?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Contributions-100%2B-success?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏢 Organizations
+
+<div align="center">
+
+None yet — join an organization to display here
+
+</div>
 
 ---
 

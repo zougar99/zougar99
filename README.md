@@ -121,6 +121,29 @@ fun_fact: "I automate everything I do more than twice"
 
 ---
 
+## ✨ Highlights
+
+<div align="center">
+
+![Stars](https://img.shields.io/badge/Stars%20Earned-43-FFD700?style=for-the-badge&logo=github&logoColor=white)
+![Repos](https://img.shields.io/badge/Public%20Repos-29-3B82F6?style=for-the-badge&logo=github&logoColor=white)
+![Followers](https://img.shields.io/badge/Followers-0-lightgrey?style=for-the-badge&logo=github&logoColor=white)
+![Commits](https://img.shields.io/badge/Contributions-100%2B-success?style=for-the-badge&logo=github&logoColor=white)
+
+</div>
+
+---
+
+## 🏢 Organizations
+
+<div align="center">
+
+None yet — join an organization to display here
+
+</div>
+
+---
+
 ## 🏆 GitHub Trophies
 
 <div align="center">
